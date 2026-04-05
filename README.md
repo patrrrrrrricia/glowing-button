@@ -1,4 +1,4 @@
-# 💖 GlowingButton: Digital Couture 💖
+# GlowingButton
 
 <div align="center">
 

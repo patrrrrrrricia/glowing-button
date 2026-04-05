@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![GLOWING BUTTON](https://img.shields.io/badge/GLOWING_BUTTON-%23000000.svg?style=for-the-badge&logo=pink&logoColor=%23FF69B4&labelColor=black)](https://patrrrrrrricia.github.io/glowing-button/)
+[![GLOWING BUTTON](https://img.shields.io/badge/GLOWING_BUTTON-%231A1A1A.svg?style=for-the-badge&logo=pink&logoColor=%23FF69B4&labelColor=1A1A1A)](https://patrrrrrrricia.github.io/glowing-button/)
 
 </div>
 

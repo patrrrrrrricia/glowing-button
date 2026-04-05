@@ -30,15 +30,28 @@
 ---
 
 ## 🎀 Core Functionality
-* **Luminescence Engine:** Realistic light bleed effect using CSS variable layering.
-* **Interactive Signature:** Dynamic scaling that responds to user presence.
-* **Automated CI/CD:** Real-time deployment via GitHub Actions & Pages.
+* **Luminescence Engine:** Realistic light bleed effect using CSS variable layering and perspective transforms.
+* **Flicker Logic:** Custom `@keyframes` (border, text, and faulty-letter) simulating vintage neon tube physics.
+* **Sartorial Interaction:** Smooth transitions and blur filters that activate upon user engagement.
 
 ---
 
 ## 📂 Project Structure
 * **`index.html`**: The structural backbone of the signature.
-* **`style.css`**: The "Couture" layer containing the visual logic.
-* **`photo/`**: High-resolution visual documentation.
+* **`style.css`**: The "Couture" layer containing the neon algorithms.
+* **`photo/`**: Visual documentation of the glow.
 
-© 2024 Button Glow | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
+---
+
+<div align="center">
+
+### 🌸 Digital Signature
+Această piesă face parte din portofoliul meu. Explorează universul complet mai jos:
+
+<a href="https://patrrrrrrricia.github.io/glowing-button/">
+  <img src="https://raw.githubusercontent.com/patrrrrrrricia/glowing-button/main/photo/Screenshot%202026-04-05%20at%204.48.08%20PM.png" width="300" alt="Leonte Patricia-Mirabela Signature">
+</a>
+
+Developed with ♡ by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
+
+</div>

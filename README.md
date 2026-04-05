@@ -14,7 +14,7 @@ A fusion of soft neon aesthetics and clean frontend code. **GlowingButton** serv
 ---
 
 ## 🤍 Tech Stack
-* **Architecture:** HTML5 & CSS3 (Zero-Dependency)
+* **Architecture:** HTML5 & CSS3
 * **Styling:** Multi-layered Box-Shadow Stacking & Neon Algorithms
 * **Experience:** Interactive Hover & Pulse Animations
 

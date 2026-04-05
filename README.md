@@ -1,17 +1,7 @@
 # GlowingButton
 
-<div align="center">
 
-<a href="https://patrrrrrrricia.github.io/glowing-button/">
-  <img src="https://raw.githubusercontent.com/patrrrrrrricia/glowing-button/main/photo/Screenshot%202026-04-05%20at%204.48.08%20PM.png" width="800" alt="Neon Glow Experience">
-</a>
-
-<br>
-
-### "The gateway to my digital universe. Click to enter."
 [✨ VIEW LIVE BOUTIQUE ✨](https://patrrrrrrricia.github.io/glowing-button/)
-
-</div>
 
 ---
 

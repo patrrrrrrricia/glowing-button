@@ -1,6 +1,6 @@
 # GlowingButton
 
-[![P A T R I C I A](https://img.shields.io/badge/ENTER_BOUTIQUE-%23000000.svg?style=for-the-badge&logo=pink&logoColor=%23FF69B4&labelColor=black)](https://patrrrrrrricia.github.io/glowing-button/)
+[![GLOWING BUTTON](https://img.shields.io/badge/GLOWING_BUTTON-%23000000.svg?style=for-the-badge&logo=pink&logoColor=%23FF69B4&labelColor=black)](https://patrrrrrrricia.github.io/glowing-button/)
 ---
 
 ## 💻 Overview

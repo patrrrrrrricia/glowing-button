@@ -41,3 +41,4 @@
 * **`style.css`**: The "Couture" layer containing the visual logic.
 * **`photo/`**: High-resolution visual documentation.
 
+© 2024 Button Glow | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)

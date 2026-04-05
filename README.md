@@ -58,3 +58,5 @@ cd glowing-button
 
 # 3. Launch
 # Simply open "index.html" in any modern browser to see the glow.
+```
+© 2026 Digital Couture Series | Developed by 𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚

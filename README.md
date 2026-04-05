@@ -1,7 +1,7 @@
 # GlowingButton
 
 
-[✨ VIEW LIVE BOUTIQUE ✨](https://patrrrrrrricia.github.io/glowing-button/)
+[Open Portfolio](https://patrrrrrrricia.github.io/glowing-button/)
 
 ---
 

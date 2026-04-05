@@ -1,15 +1,8 @@
-# 💖 GlowingButton: Digital Couture 💖
+# GlowingButton: Digital Couture 
 
-<div align="center">
-
-<a href="https://patrrrrrrricia.github.io/glowing-button/">
-  <img src="https://github.com/patrrrrrrricia/glowing-button/blob/main/photo/Screenshot%202026-04-05%20at%204.48.08%20PM.png?raw=true" width="800" alt="Neon Glow Experience">
-</a>
-
-<br>
 
 ### "A sophisticated visual experiment blending sartorial aesthetics with modern frontend architecture."
-[✨ EXPERIENCE THE GLOW LIVE ✨](https://patrrrrrrricia.github.io/glowing-button/)
+[GLOWINGBUTTON](https://patrrrrrrricia.github.io/glowing-button/)
 
 </div>
 

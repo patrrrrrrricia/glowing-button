@@ -16,7 +16,7 @@
 ---
 
 ## 💻 Overview
-**GlowingButton** is a bespoke digital signature designed to harmonize high-fashion aesthetics with interactive technology. It serves as an immersive entry point to my portfolio, transforming code into a luminous, "sartorial" experience.
+A fusion of soft neon aesthetics and clean frontend code. **GlowingButton** serves as the immersive entry point to my portfolio, reimagining standard UI through an aesthetic lens.
 
 ---
 
@@ -43,15 +43,5 @@
 
 ---
 
-<div align="center">
 
-### 🌸 Digital Signature
-Această piesă face parte din portofoliul meu. Explorează universul complet mai jos:
-
-<a href="https://patrrrrrrricia.github.io/glowing-button/">
-  <img src="https://raw.githubusercontent.com/patrrrrrrricia/glowing-button/main/photo/Screenshot%202026-04-05%20at%204.48.08%20PM.png" width="300" alt="Leonte Patricia-Mirabela Signature">
-</a>
-
-Developed with ♡ by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
-
-</div>
+© 2024 Glowing Button | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)

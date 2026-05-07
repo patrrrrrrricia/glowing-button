@@ -27,6 +27,12 @@ A fusion of soft neon aesthetics and clean frontend code. **GlowingButton** serv
 * **Flicker Logic:** Custom `@keyframes` (border, text, and faulty-letter) simulating vintage neon tube physics.
 * **Sartorial Interaction:** Smooth transitions and blur filters that activate upon user engagement.
 
+  
+
+https://github.com/user-attachments/assets/fc5b0d7d-2d45-4eec-b3e4-0c722f0aaaec
+
+
+
 ---
 
 ## 📂 Project Structure

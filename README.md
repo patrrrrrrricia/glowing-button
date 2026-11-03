@@ -8,12 +8,12 @@
 
 ---
 
-## 💻 Overview
+## Overview
 A fusion of soft neon aesthetics and clean frontend code. **GlowingButton** serves as the immersive entry point to my portfolio, reimagining standard UI through an aesthetic lens.
 
 ---
 
-## 🤍 Tech Stack
+## Tech Stack
 * **Architecture:** HTML5 & CSS3
 * **Styling:** Multi-layered Box-Shadow Stacking & Neon Algorithms
 * **Experience:** Interactive Hover & Pulse Animations
@@ -22,7 +22,7 @@ A fusion of soft neon aesthetics and clean frontend code. **GlowingButton** serv
 
 ---
 
-## 🎀 Core Functionality
+## Core Functionality
 * **Luminescence Engine:** Realistic light bleed effect using CSS variable layering and perspective transforms.
 * **Flicker Logic:** Custom `@keyframes` (border, text, and faulty-letter) simulating vintage neon tube physics.
 * **Sartorial Interaction:** Smooth transitions and blur filters that activate upon user engagement.

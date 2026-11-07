@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/fc5b0d7d-2d45-4eec-b3e4-0c722f0aaaec
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 * **`index.html`**: The structural backbone of the signature.
 * **`style.css`**: The "Couture" layer containing the neon algorithms.
 * **`photo/`**: Visual documentation of the glow.

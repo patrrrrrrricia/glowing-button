@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://patrrrrrrricia.github.io/glowing-button/" target="_blank">
-  <img src="https://img.shields.io/badge/%20𝓰𝓵𝓸𝔀𝓲𝓷𝓰%20𝓫𝓾𝓽𝓽𝓸𝓷%20-D4A5B8?style=for-the-badge&logo=rose&logoColor=white&labelColor=2b1d24" alt="Glowing Button" style="border-radius: 30px; box-shadow: 0 0 15px rgba(212, 165, 184, 0.6);" />
+  <img src="https://img.shields.io/badge/%50GLOWING%50BUTTON%50-D4A5B8?style=for-the-badge&logo=rose&logoColor=white&labelColor=2b1d24" alt="Glowing Button" style="border-radius: 30px; box-shadow: 0 0 15px rgba(212, 165, 184, 0.6);" />
 </a>
 
 </div>

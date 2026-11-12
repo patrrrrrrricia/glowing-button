@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://patrrrrrrricia.github.io/glowing-button/" target="_blank">
-  <img src="https://img.shields.io/badge/GLOWING BUTTON-D4A5B8?style=for-the-badge&logo=rose&logoColor=white&labelColor=2b1d24" alt="Glowing Button" style="border-radius: 50px; box-shadow: 0 0 15px rgba(212, 165, 184, 0.6);" />
+  <img src="https://img.shields.io/badge/GLOWING_BUTTON-ECCACB?style=for-the-badge&logo=rose&logoColor=3B3B3B&labelColor=3B3B3B" alt="Glowing Button" style="border-radius: 50px; box-shadow: 0 0 15px rgba(236, 204, 203, 0.6);" />
 </a>
 
 </div>
@@ -20,7 +20,7 @@ A fusion of soft neon aesthetics and clean frontend code. **GlowingButton** serv
 * **Styling:** Multi-layered Box-Shadow Stacking & Neon Algorithms
 * **Experience:** Interactive Hover & Pulse Animations
 
-![HTML5](https://img.shields.io/badge/HTML5-%23333333.svg?style=for-the-badge&logo=html5&logoColor=%23FF69B4) ![CSS3](https://img.shields.io/badge/CSS3-%23333333.svg?style=for-the-badge&logo=css3&logoColor=%23FF69B4) ![Design](https://img.shields.io/badge/Design-Digital_Couture-%23FF69B4.svg?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-3B3B3B.svg?style=for-the-badge&logo=html5&logoColor=ECCACB) ![CSS3](https://img.shields.io/badge/CSS3-3B3B3B.svg?style=for-the-badge&logo=css3&logoColor=ECCACB) ![Design](https://img.shields.io/badge/Design-Digital_Couture-ECCACB.svg?style=for-the-badge&logoColor=3B3B3B)
 
 ---
 
